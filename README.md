@@ -1,4 +1,4 @@
-# Sales_Report
+# Product-Sales-Analysis-Dashboard
 
 A dashboard that is created using powerbi.
 
